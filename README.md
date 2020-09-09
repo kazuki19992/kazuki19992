@@ -7,6 +7,7 @@ Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！
 ![GitHub followers](https://img.shields.io/github/followers/kazuki19992?color=inactive&label=Github%20Followers)
 
 ![](https://img.shields.io/badge/Highschool-passed-brightgreen)
+![](https://img.shields.io/badge/University%20-75%25-green)
 ## これまでのカズ之助くんの成績！
 ### 成績！💯💮
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kazuki19992&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
