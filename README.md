@@ -1,4 +1,4 @@
-# こんにちは！ 👋
+# 🌦 こんにちは！ 👋
 Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！  
 日本大学工学部(Nihon-Univ.)のB3です！
 
