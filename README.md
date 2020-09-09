@@ -6,8 +6,8 @@ Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！
 ![Twitter Followers](https://img.shields.io/twitter/follow/Tech_Kazu?color=blue&label=Twitter%20Followers&logoColor=blue&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/kazuki19992?color=inactive&label=Github%20Followers)
 
-![](https://img.shields.io/badge/Highschool-passed-brightgreen)
-![](https://img.shields.io/badge/University%20-75%25-green)
+[![](https://img.shields.io/badge/Highschool-passed-brightgreen)](https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E7%9C%8C%E7%AB%8B%E5%B9%B3%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1)
+[![](https://img.shields.io/badge/University%20-75%25-green)](https://www.nihon-u.ac.jp/)
 ![](https://img.shields.io/badge/%20Job%20hunting-unknown-inactive)
 
 ![](https://img.shields.io/badge/money-ippai%20--%20HOSHIIII!!!!!-critical)
