@@ -4,7 +4,7 @@
 ## これまでのカズ之助くんの成績！
 ### 成績！💯💮
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kazuki19992&count_private=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-### これまで使ってきた言語たち！💬
+### カズ之助くんのリポジトリに存在する言語たち！💬
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuki19992&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
