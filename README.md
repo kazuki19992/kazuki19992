@@ -3,7 +3,7 @@ Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！
 日本大学工学部(Nihon-Univ.)のB3です！
 
 ![](https://img.shields.io/badge/kazuki19992-PHP%20%7C%20C%20%7C%20HTML%20%7C%20Java%20%7C%20Javascript%20%7C%20CSS-brightgreen)
-
+![Twitter Follow](https://img.shields.io/twitter/follow/Tech_Kazu?color=blue&label=Twitter%20Followers&logoColor=blue&style=flat-square)
 ## これまでのカズ之助くんの成績！
 ### 成績！💯💮
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kazuki19992&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
