@@ -5,7 +5,7 @@
 ### 成績！💯💮
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kazuki19992&count_private=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### これまで使ってきた言語たち！💬
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuki19992)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuki19992&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kazuki19992/kazuki19992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
