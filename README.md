@@ -1,6 +1,8 @@
 # こんにちは！ 👋
-Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！
+Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！  
 日本大学工学部(Nihon-Univ.)のB3です！
+
+![https://img.shields.io/badge/kazuki19992-PHP%20%7C%20C%20%7C%20HTML%20%7C%20Java%20%7C%20Javascript%20%7C%20CSS-brightgreen](https://img.shields.io/badge/kazuki19992-PHP%20%7C%20C%20%7C%20HTML%20%7C%20Java%20%7C%20Javascript%20%7C%20CSS-brightgreen)
 
 ## これまでのカズ之助くんの成績！
 ### 成績！💯💮
