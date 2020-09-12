@@ -20,8 +20,8 @@ Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！
 
 ## Link⛓
 - Twitter: [@Tech_Kazu](https://twitter.com/Tech_Kazu)
-- Blog1: [カズ之助のいろいろ](https://kazuki19992.hateblo.jp)
-- Blog2: [Tech_Kazu.log](https://kazuki19992.page)
+- Blog1(これまで): [カズ之助のいろいろ](https://kazuki19992.hateblo.jp)
+- Blog2（これから): [Tech_Kazu.log](https://kazuki19992.page)
 
 ## Products💻🛠
 
