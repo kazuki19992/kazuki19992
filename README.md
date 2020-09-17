@@ -35,6 +35,7 @@ Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！
   - PC版Chrome
   - PC版Chromium
   - PC版EdgeをはじめとしたChromium製品
+  
 サポーターズ&VOYAGE GROUP主催のサマーハッカソンの作品です！  
 さて、みなさんぜひインストールしてみてください。  
 インストールするとあなたにちょっと違う日常とゆとりを与えることができるでしょう……
