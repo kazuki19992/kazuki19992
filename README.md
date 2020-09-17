@@ -29,6 +29,12 @@ Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！
 [Emojoyダウンロードリンク](https://github.com/kazuki19992/SummerHackathon2020/releases/tag/0.01)  
 [Emojoyリポジトリ: SummerHackathon2020](https://github.com/kazuki19992/SummerHackathon2020)  
 [登壇資料](https://docs.google.com/presentation/d/1yfOMk3lGJ-1GZocnc_HPFeq3Psq0jcTTWf7G3H7uNPY/edit?usp=sharing)  
+- タイトル: Emojoy(えもじょい)
+- ジャンル: Chrome拡張機能
+- 対応プラットフォーム: 
+  - PC版Chrome
+  - PC版Chromium
+  - PC版EdgeをはじめとしたChromium製品
 サポーターズ&VOYAGE GROUP主催のサマーハッカソンの作品です！  
 さて、みなさんぜひインストールしてみてください。  
 インストールするとあなたにちょっと違う日常とゆとりを与えることができるでしょう……
