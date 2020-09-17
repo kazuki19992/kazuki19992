@@ -26,7 +26,7 @@ Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！
 ## Products💻🛠
 
 ### 🌦 Emojoy
-[Emojoy](https://github.com/kazuki19992/SummerHackathon2020/releases/tag/0.01)
+[Emojoyダウンロードリンク](https://github.com/kazuki19992/SummerHackathon2020/releases/tag/0.01)
 #### リポジトリ
 [SummerHackathon2020](https://github.com/kazuki19992/SummerHackathon2020)
 
