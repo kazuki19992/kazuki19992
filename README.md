@@ -42,7 +42,7 @@ Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！
 インストールするとあなたにちょっと違う日常とゆとりを与えることができるでしょう……
 
 ### 📚 StDo
-[StDo](https://stdo-app.net/)  
+[StDo](http://stdo-app.net/)  
 [リポジトリ: stdo](https://github.com/kazuki19992/stdo)  
 - タイトル: StDo(すたどぅ)
 - ジャンル: Webアプリケーション
