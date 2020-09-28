@@ -44,7 +44,6 @@ Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！
 ### 📚 StDo
 [StDo](https://stdo-app.net/)  
 [リポジトリ: stdo](https://github.com/kazuki19992/stdo)  
-[登壇資料](https://docs.google.com/presentation/d/1yfOMk3lGJ-1GZocnc_HPFeq3Psq0jcTTWf7G3H7uNPY/edit?usp=sharing)  
 - タイトル: StDo(すたどぅ)
 - ジャンル: Webアプリケーション
 - 使用技術: PHP, CSS, JavaScript, MySQL
