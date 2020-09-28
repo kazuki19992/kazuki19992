@@ -28,7 +28,7 @@ Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！
 ### 🌦 Emojoy
 [Emojoyダウンロードリンク](https://github.com/kazuki19992/SummerHackathon2020/releases/tag/0.01)  
 [Emojoyリポジトリ: SummerHackathon2020](https://github.com/kazuki19992/SummerHackathon2020)  
-[登壇資料](https://docs.google.com/presentation/d/1yfOMk3lGJ-1GZocnc_HPFeq3Psq0jcTTWf7G3H7uNPY/edit?usp=sharing) 
+[登壇資料](https://docs.google.com/presentation/d/1yfOMk3lGJ-1GZocnc_HPFeq3Psq0jcTTWf7G3H7uNPY/edit?usp=sharing)   
 [ブログ記事](https://kazuki19992.page/003_summerhackathon2020/)
 - タイトル: Emojoy(えもじょい)
 - ジャンル: Chrome拡張機能
