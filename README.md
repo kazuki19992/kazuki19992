@@ -18,7 +18,7 @@ Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！
 ### カズ之助くんのリポジトリに存在する言語たち！💬
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuki19992&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
-## Link🔗
+## Links🔗
 - Twitter: [@Tech_Kazu](https://twitter.com/Tech_Kazu)
 - Blog1(これまで): [カズ之助のいろいろ](https://kazuki19992.hateblo.jp)
 - Blog2（これから): [Tech_Kazu.log](https://kazuki19992.page)
