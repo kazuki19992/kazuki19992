@@ -42,6 +42,10 @@ Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！
 さて、みなさんぜひインストールしてみてください。  
 インストールするとあなたにちょっと違う日常とゆとりを与えることができるでしょう……
 
+#### 画面例
+![](https://github.com/kazuki19992/kazuki19992/blob/master/.github/emojoy/emojoy-img1.png?raw=true)  
+文章中に絵文字を追加するよ！！！
+
 ### 📚 StDo
 [StDo](http://stdo-app.net/)  
 [リポジトリ: stdo](https://github.com/kazuki19992/stdo)  
@@ -54,7 +58,17 @@ Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！
   - PC版EdgeをはじめとしたChromium製品
   
 時間割を手軽に管理できるWebアプリケーションです！
-これからタスク管理を実装します！
+
+#### 画面例
+##### トップ画面
+![](https://github.com/kazuki19992/kazuki19992/blob/master/.github/stdo/stdo-img1.png?raw=true)  
+今日一日の講義と6個のタスクを表示
+
+##### 時間割登録画面
+![](https://github.com/kazuki19992/kazuki19992/blob/master/.github/stdo/stdo-img2.png?raw=true)  
+登録(変更)したい曜日, 時間を選ぶと……
+![](https://github.com/kazuki19992/kazuki19992/blob/master/.github/stdo/stdo-img3.png?raw=true)  
+入力モーダルが出てくるので入力しよう！！！
 
 <!--
 **kazuki19992/kazuki19992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
