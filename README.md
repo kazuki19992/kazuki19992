@@ -8,7 +8,7 @@ Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！
 
 [![](https://img.shields.io/badge/Highschool-passed-brightgreen)](https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E7%9C%8C%E7%AB%8B%E5%B9%B3%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1)
 [![](https://img.shields.io/badge/University%20-75%25-green)](https://www.nihon-u.ac.jp/)
-![](https://img.shields.io/badge/%20Job%20hunting-running-brightgreen)
+![](https://img.shields.io/badge/%20Job%20hunting-running...-brightgreen)
 
 ![](https://img.shields.io/badge/money-ippai%20--%20HOSHIIII!!!!!-critical)
 ![](https://img.shields.io/badge/Beer%F0%9F%8D%BA-LOVE!!!!-orange)
