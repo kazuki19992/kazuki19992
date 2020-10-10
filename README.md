@@ -26,7 +26,6 @@ Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！
 ## Products💻🛠
 
 ### 💬 EductChat
-![EductChatアイコン](https://github.com/kazuki19992/EductChat/blob/master/img/icon.png?raw=true)
 ![EductChatロゴ](https://github.com/kazuki19992/EductChat/blob/master/img/ProjectImage_alpha.png?raw=true)
 
 [EductChatリポジトリ](https://github.com/kazuki19992/EductChat)  
@@ -52,6 +51,7 @@ Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！
 私自信Electronはおろか、node.jsすらいじったことがないので、いろいろ大変です……
 ![動作例](https://github.com/kazuki19992/EductChat/raw/master/GitHub_Image/%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9.gif)
 ![画面例](https://github.com/kazuki19992/EductChat/raw/master/GitHub_Image/%E3%81%A4%E3%81%8B%E3%81%84%E3%81%8B%E3%81%9F.gif)
+![mac_画面例](https://github.com/kazuki19992/EductChat/blob/master/GitHub_Image/mac_window.png?raw=true)
 
 
 ### 🌦 Emojoy
