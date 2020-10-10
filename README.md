@@ -28,9 +28,10 @@ Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！
 ### 💬 EductChat
 ![EductChatアイコン](https://github.com/kazuki19992/EductChat/blob/master/img/icon.png?raw=true)
 ![EductChatロゴ](https://github.com/kazuki19992/EductChat/blob/master/img/ProjectImage_alpha.png?raw=true)
-[EductChatリポジトリ](https://github.com/kazuki19992/EductChat)
-[リリースページ](https://github.com/kazuki19992/EductChat/releases/tag/1.01)
-[README.md](https://github.com/kazuki19992/EductChat/blob/master/README.md)
+
+[EductChatリポジトリ](https://github.com/kazuki19992/EductChat)  
+[リリースページ](https://github.com/kazuki19992/EductChat/releases/tag/1.01)  
+[README.md](https://github.com/kazuki19992/EductChat/blob/master/README.md)  
 - タイトル: EductChat(えでゅくとちゃっと)
 - ジャンル: マルチプラットフォーム対応デスクトップチャットアプリケーション
 - 使用技術: Node.js, React, firebase
