@@ -1,6 +1,6 @@
 # 🌦 こんにちは！ 👋
 Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！  
-日本大学工学部(Nihon-Univ.)のB3です！
+日本大学工学部(Nihon-Univ.)のB4です！
 
 ![](https://img.shields.io/badge/kazuki19992-PHP%20%7C%20C%20%7C%20HTML%20%7C%20Java%20%7C%20Javascript%20%7C%20React%20%7C%20CSS-brightgreen)
 [![Twitter Followers](https://img.shields.io/twitter/follow/Tech_Kazu?color=blue&label=Twitter%20Followers&logoColor=blue&style=flat-square)](https://twitter.com/Tech_Kazu)
