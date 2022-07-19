@@ -1,17 +1,38 @@
-# 🌦 こんにちは！ 👋
-Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！  
-某ソフトウェアベンダー企業の1年生です！
+# 🌦 自己紹介するよー！ 👋
 
-![](https://img.shields.io/badge/kazuki19992-PHP%20%7C%20C%20%7C%20HTML%20%7C%20Java%20%7C%20Javascript%20%7C%20React%20%7C%20CSS-brightgreen)
-[![Twitter Followers](https://img.shields.io/twitter/follow/kazuki19992?color=blue&label=Twitter%20Followers&logoColor=blue&style=flat-square)](https://twitter.com/Tech_Kazu)
-[![GitHub followers](https://img.shields.io/github/followers/kazuki19992?color=inactive&label=Github%20Followers)](https://github.com/kazuki19992)
+最終更新: 2022/07/19
+
+---
+
+## こんにちは！
+
+- おなまえ: カズ之助 (櫛田 一樹: Kazuki Kushida)
+- しょぞく: 某ソフトウェアベンダー企業
+- ねんれい: 23
+- たんじょうび: 1999/04/06
+- Twitter: [@kazuki19992](https://twitter.com/kazuki19992)
+- amazon: [ほしいもりすと](https://www.amazon.co.jp/hz/wishlist/dl/invite/eZ11hti?ref_=wl_share)
 
 [![](https://img.shields.io/badge/Highschool-passed-brightgreen)](https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E7%9C%8C%E7%AB%8B%E5%B9%B3%E5%B7%A5%E6%A5%AD%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1)
 [![](https://img.shields.io/badge/University-passed-brightgreen)](https://www.nihon-u.ac.jp/)
 ![](https://img.shields.io/badge/Job%20hunting-passed-success)
 
+## すきなもの
+
+- おさけ
+  - にほんしゅ
+  - びーる
+  - れもんさわー
+
+## いろいろ
+
+![](https://img.shields.io/badge/kazuki19992-Next.js%20%7C%20Node.js%20%7C%20React%20%7C%20Typescript%20%7C%20PHP%20%7C%20Java%20%7C%20Javascript%20%7C%20CSS-brightgreen)
+[![Twitter Followers](https://img.shields.io/twitter/follow/kazuki19992?color=blue&label=Twitter%20Followers&logoColor=blue&style=flat-square)](https://twitter.com/Tech_Kazu)
+[![GitHub followers](https://img.shields.io/github/followers/kazuki19992?color=inactive&label=Github%20Followers)](https://github.com/kazuki19992)
+
 ![](https://img.shields.io/badge/money-ippai%20--%20HOSHIIII!!!!!-critical)
 ![](https://img.shields.io/badge/Beer%F0%9F%8D%BA-LOVE!!!!-orange)
+
 ## これまでのカズ之助くんの成績！
 ### 成績！💯💮
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kazuki19992&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)  
@@ -68,6 +89,7 @@ Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！
   - PC版Chromium
   - PC版EdgeをはじめとしたChromium製品
   
+
 サポーターズ&VOYAGE GROUP主催のサマーハッカソンの作品です！  
 さて、みなさんぜひインストールしてみてください。  
 インストールするとあなたにちょっと違う日常とゆとりを与えることができるでしょう……
@@ -87,6 +109,7 @@ Hello!!カズ之助(櫛田 一樹:Kazuki Kushida)です！！
   - PC版Chromium
   - PC版EdgeをはじめとしたChromium製品
   
+
 時間割を手軽に管理できるWebアプリケーションです！
 
 #### 画面例
