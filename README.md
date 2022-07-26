@@ -47,7 +47,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuki19992&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Links🔗
-- Twitter: [@Tech_Kazu](https://twitter.com/Tech_Kazu)
+- Twitter: [@kazuki19992](https://twitter.com/kazuki19992)
 - Blog1(これまで): [カズ之助のいろいろ](https://kazuki19992.hateblo.jp)
 - Blog2（これから): [Tech_Kazu.log](https://kazuki19992.page)
 
